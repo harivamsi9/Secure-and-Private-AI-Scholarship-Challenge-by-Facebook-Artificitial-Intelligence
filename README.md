@@ -24,3 +24,12 @@ Link2: https://poloclub.github.io/ganlab/
 
 Thanks to @Munira Omar and @Shubhangi Jena for motivating me for publishing articles! Thanks a ton! 
 I encourage @Munira Omar @Shubhangi Jena @Ana @Mika @Yemi @Aisha Javed to keep up with their work ! And constantly inspire other as well!
+
+### Day 14/60 (10th Jul 2019) #60daysofudacity
+- had a virtual meetup for over 40 mins with members of #sg_bangalore! Some of them are @Prabha Venkatesh @jicksy @Nagaraj S Murthy @Jeet @Abhishek Tandon @lakshmi ... this are who i can remember at the moment! Sorry if I missed out others
+- as i said yesterday, traveling caught most of my day, and poor internet connection throughout the way;  
+still I managed to review my previous notes and make notes! (Now i reached my place and then had the virtual meetup)
+- reviewed Lesson 3
+
+I would encourage @Aniket Mitra @An @Aisha Javed @Alejandro Aristizábal @Milka Wafula
+
