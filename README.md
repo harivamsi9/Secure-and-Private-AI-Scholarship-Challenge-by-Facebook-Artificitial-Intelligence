@@ -20,9 +20,7 @@ Link2: https://poloclub.github.io/ganlab/
 - revisited Lesson 3 (30 mins)
 - I am now a Certified Associate in Python Programming
 
-
 (I was traveling all day, still traveling, will be traveling till tomorrow afternoon since my college has reopened...:face_with_thermometer::face_with_thermometer:)
 
 Thanks to @Munira Omar and @Shubhangi Jena for motivating me for publishing articles! Thanks a ton! 
-
 I encourage @Munira Omar @Shubhangi Jena @Ana @Mika @Yemi @Aisha Javed to keep up with their work ! And constantly inspire other as well!
