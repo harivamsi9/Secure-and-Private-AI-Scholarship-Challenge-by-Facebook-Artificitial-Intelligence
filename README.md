@@ -14,3 +14,15 @@ Link1: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-wit
 Link2: https://poloclub.github.io/ganlab/
 - worked around with Azure’s LUIS and made an app to determine user intentions using Natural Language Understanding
 - registered for Python Certification exam which I will be writing tomorrow!
+
+### Day 13/60 (9th Jul 2019) #60daysofudacity
+- reviewed and revised Lesson 2 (1 hour)
+- revisited Lesson 3 (30 mins)
+- I am now a Certified Associate in Python Programming
+
+
+(I was traveling all day, still traveling, will be traveling till tomorrow afternoon since my college has reopened...:face_with_thermometer::face_with_thermometer:)
+
+Thanks to @Munira Omar and @Shubhangi Jena for motivating me for publishing articles! Thanks a ton! 
+
+I encourage @Munira Omar @Shubhangi Jena @Ana @Mika @Yemi @Aisha Javed to keep up with their work ! And constantly inspire other as well!
