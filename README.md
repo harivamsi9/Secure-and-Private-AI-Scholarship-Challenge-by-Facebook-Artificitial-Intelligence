@@ -33,3 +33,15 @@ still I managed to review my previous notes and make notes! (Now i reached my pl
 
 I would encourage @Aniket Mitra @An @Aisha Javed @Alejandro Aristizábal @Milka Wafula
 
+### Day 15/60 (11th Jul 2019) #60daysofudacity 
+- started the Lesson 5, watched videos (1 hour)
+- reading Pytorch Documentation! (40 mins)
+- worked on Azure LUIS API for my project! (1 hour)
+
+I invite @Leandro Souza de Moura Lima and encourage @Alejandro Aristizábal@Dani Montes@Diana Cristina Culincu to keep up with their work with the challenge!:star-struck:
+
+### Day 16/60 (12th Jul 2019) #60daysofudacity 
+- finished 78% of Lesson 5 Introducing Local and Global Differential Privacy
+- took the GCP Certification Quest and working on it
+
+I encourage @Subtain Tariq Malik @Shanmugapriya @Julia S. @Leonardo Lima to keep up with their work!
